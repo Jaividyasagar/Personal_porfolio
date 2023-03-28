@@ -1,6 +1,9 @@
 html {
   font-size: 62.5%;
 }
+* {
+smooth-scroll: true;
+}
 body{
   background: black;
   color: #fff;
